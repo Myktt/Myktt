@@ -20,3 +20,17 @@ You can click the Preview link to take a look at your changes.
 
 
 ear tag :  https://jefferspet.com/products/replacement-pin-f-tagger
+
+
+
+
+INTRUSION DETECTION AND PREVENTING SYSTEM
+KOLYO RAYCHINOV, HRISTO VALCHANOV
+
+https://www.researchgate.net/profile/Neli-Keranova/publication/321491098_MATHEMATICAL_METHODS_FOR_ESTIMATING_THE_AVERAGE_YIELD_OF_SPINACH_IN_MEMBER_STATES_OF_THE_EUROPEAN_UNION_FOR_THE_PERIOD_1961-2014/links/60c07037458515bfdb557ea4/MATHEMATICAL-METHODS-FOR-ESTIMATING-THE-AVERAGE-YIELD-OF-SPINACH-IN-MEMBER-STATES-OF-THE-EUROPEAN-UNION-FOR-THE-PERIOD-1961-2014.pdf
+
+
+=>   https://www.framboise314.fr/detection-dintrusion-ids-avec-suricata-sur-raspberry-pi/
+
+
+
