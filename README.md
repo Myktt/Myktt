@@ -37,3 +37,7 @@ https://www.researchgate.net/profile/Neli-Keranova/publication/321491098_MATHEMA
 
 
 
+
+https://studylib.net/doc/18842610/iso-iec-jtc-1-sc-29-n-15907
+
+https://studylib.net/doc/
