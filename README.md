@@ -42,7 +42,7 @@ https://studylib.net/doc/18842610/iso-iec-jtc-1-sc-29-n-15907
 
 https://studylib.net/doc/
 
-la :  https://studylib.net/doc/26046701/act-1-safety-rules-and-good-laboratory-practices-word  
+eurocode2 :  https://studylib.net/doc/27330663/reinforced-concrete-design--to-eurocode-2-7th-ed-2012-edi... 
 
 labo  : https://studylib.net/doc/26046701/act-1-safety-rules-and-good-laboratory-practices-word
 
