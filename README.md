@@ -1,3 +1,6 @@
+https://standardsworks.sae.org/standards-committees/a-21-aircraft-noise-measurement-aviation-emission-modeling
+
+
 - 👋 Hi, I’m @Myktt                        https://www.ifop.com/publication/le-bonheur-breton-vivre-et-travailler-en-bretagne/
 - 👀 I’m interested in ...       https://www.eizo.fr/fr/ecrans-cliniciens/2815-radiforce-21p-mx217.html
 - 🌱 I’m currently learning ...  https://www.pilz.com/
