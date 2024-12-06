@@ -54,3 +54,13 @@ eurocode2 :  https://studylib.net/doc/27330663/reinforced-concrete-design--to-eu
 labo  : https://studylib.net/doc/26046701/act-1-safety-rules-and-good-laboratory-practices-word
 
 
+
+
+
+
+
+
+
+Parkins on
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4821081
