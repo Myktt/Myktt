@@ -64,3 +64,17 @@ labo  : https://studylib.net/doc/26046701/act-1-safety-rules-and-good-laboratory
 Parkins on
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4821081
+
+PiJoy
+https://joy-it.net/de/products/RB-JoyPi-Advanced
+
+
+https://www.gotronic.fr/art-capteur-de-gaz-mq7-31499.htm
+
+
+
+
+
+
+
+
