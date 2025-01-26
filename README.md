@@ -8,8 +8,12 @@ S X L T O U I              E
 https://www.design911.com/fr/p/lambda-oxygen-sensor-before-catalytic-convener-porsche-997-mk2-3-6l-3-8l-9a160616802-0258017329-9a160616803/
 
       V
-      °
-      °
+      °  Compatible avec :
+Porsche 997 MK2 3.6L (AVANT convertisseur catalytique)
+Porsche 997S MK2 3.8L (AVANT convertisseur catalytique)
+      °la ligne d'échappement est optimisée pour réduire de près de 15 %, selon Porsche, la nocivité des gaz d'échappement
+
+https://www.motorlegend.com/essai-voiture/porsche-911-997/2,9964.html
 
 
 
